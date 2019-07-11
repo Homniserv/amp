@@ -9,9 +9,15 @@
   
 
  <url>
-        <loc>https://homniserv.github.io/amp/</loc>
+        <loc>https://homniserv.github.io/amp/image-blood-red.html</loc>
 
-        
+ <image:image>
+         <image:loc>https://homniserv.github.io/amp/sang_2_blood_2.jpg</image:loc>
+          <image:caption>Art Biology cells in blood</image:caption> 
+      </image:image>
+
+
+
         <lastmod>2019-07-05</lastmod>
         <changefreq>daily</changefreq>
 
