@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+S<?xml version='1.0' encoding='UTF-8'?>
 
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 
@@ -8,13 +8,13 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   
 
- <url>
+    <url>
         <loc>https://homniserv.github.io/amp/image-blood-red.html</loc>
 
- <image:image>
-         <image:loc>https://homniserv.github.io/amp/sang_2_blood_2.jpg</image:loc>
-          <image:caption>Art Biology cells in blood</image:caption> 
-      </image:image>
+        <image:image>
+            <image:loc>https://homniserv.github.io/amp/sang_2_blood_2.jpg</image:loc>
+            <image:caption>Art Biology cells in blood</image:caption> 
+        </image:image>
 
 
 
@@ -22,7 +22,7 @@
         <changefreq>daily</changefreq>
 
         <priority>0.80</priority>
-      </url>
+    </url>
 
- </urlset>
+</urlset>
 
